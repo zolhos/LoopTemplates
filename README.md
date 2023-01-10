@@ -1,6 +1,8 @@
 # LoopTemplates
 Templates for generating animated seamless loops in Processing, p5.js, and Processing.py
 
+Aprendendo a utilizar o p5.js e o github. Falta bastante! :')
+
 ![Looping GiF](nickname_processing_loop.gif)
 
 * [Processing (Java) version](https://github.com/golanlevin/LoopTemplates/blob/master/animgif_processing/animgif_processing.pde)
